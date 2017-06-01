@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Downloads/TopNews/topNews/libs/jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/Users/apple/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/jsoup-1.7.2_b66088ef8bef2e2ac6c523c7d36af91863cd1622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Downloads/TopNews/topNews/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/Users/apple/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources_78546594f6a9b248ec9cf8fb5896a6c7e76720f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Downloads/TopNews/topNews/build/intermediates/exploded-aar/TopNews/library_SlidingMenu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eebec9eb9d4ed08813c82c8c57f53735de49a8c">
+        <dex dex="/Users/apple/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/TopNews-library_SlidingMenu-unspecified_0b6506dab71100e0936f2ec4c71b3b08d097d14a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/apple/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/support-v4-18.0.0_6c5933aa9035b00d8063f98f496e22d62e3cad37.jar" />
+    </item>
+
+</items>
